@@ -1,4 +1,24 @@
 ## Welcome to GitHub Pages
+``` java
+System.out.println("이건 뭘까");
+```
+
+```html
+<div>Hello</div>
+```
+
+*목록1
+*목록2
+
+- 목록1
+- 목록2
+
+|학번|이름|
+|----|----|
+|2599|이미림|
+
+!.[내페이지].(Home.JPG)
+
 
 You can use the [editor on GitHub](https://github.com/Leemainsw/Leemainsw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
